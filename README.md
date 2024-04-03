@@ -2,14 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/dafnirca">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dafnirca&show_icons=true&theme=shadow_blue-purple&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafnirca&layout=compact&langs_count=7&theme=swift"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dafnirca&show_icons=true&theme=shadow_blue&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafnirca&layout=compact&langs_count=7&theme=shadow_blue"/>
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dath-Js" height="30" width="40" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dath-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"">
   <img align="center" alt="Dath-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dath-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
