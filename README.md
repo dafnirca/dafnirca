@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=dafnirca&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 💻 Desenvolvedora Júnior | 🚀 Interessada por Arquitetura de Software e Gestão de Projetos
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 💻 Desenvolvedora Júnior | 🚀 Interessada por Data Science e Gestão de Projetos
 
 Atualmente, estou aprendendo Python e tenho experiência em pequenos projetos de Front End, utilizando HTML, CSS, JavaScript e Node.js. Meu sonho é abrir minha própria empresa de tecnologia um dia.
 
