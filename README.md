@@ -7,7 +7,7 @@
 <p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 💻 Desenvolvedora Júnior | 🚀 Interessada por Data Science e Gestão de Projetos
 
-Atualmente, estou aprendendo Python e tenho experiência em pequenos projetos de Front End, utilizando HTML, CSS, JavaScript e Node.js. Meu sonho é abrir minha própria empresa de tecnologia um dia.
+Atualmente, estou aprendendo Python e tenho experiência em projetos como analise de dados . Meu sonho é abrir minha própria empresa de tecnologia um dia.
 
 ---
 </p>
