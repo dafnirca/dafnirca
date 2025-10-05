@@ -7,8 +7,6 @@
 <p>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNISINOS | 💻 Estagiaria em BI | 🚀 Interessada por Data Science
 
-Atualmente, estou aprendendo Python e tenho experiência em projetos como analise de dados . Meu sonho é abrir minha própria empresa de tecnologia um dia.
-
 ---
 </p>
  
